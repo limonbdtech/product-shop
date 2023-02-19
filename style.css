@@ -64,7 +64,7 @@ a {
     font-style: italic;
   }
 
-  @media only screen and (max-width: 570px) {
+  @media only screen and (max-width: 574px) {
     .extarnal {
         display: flex;
       flex-direction: column;
